@@ -6,7 +6,6 @@ import { firestore, useFirebase } from "../../../components/FirebaseProvider";
 import { useParams } from "react-router-dom";
 
 import { unixToTime } from "../../../utils/datetime";
-import { classes } from "istanbul-lib-coverage";
 import useStyles from "./styles/room";
 
 export default function MessageIn({ message }) {
