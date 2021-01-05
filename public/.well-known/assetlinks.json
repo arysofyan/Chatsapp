@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.mipuep",
+      "sha256_cert_fingerprints": ["6F:F7:9E:55:EE:EC:CC:7C:51:37:49:F2:F9:A1:4F:70:2C:C3:5D:67:2A:C1:49:57:F1:CC:05:5B:55:FC:C5:DD"]
+    }
+  }
+]
